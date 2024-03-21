@@ -1,5 +1,6 @@
-# LinkedLnTask
+# Bobryashov_Project
 Инструкция по запуску:
+   0) Перейдите в ветку "master"
    1.1) Склонировать репозиторий
    git clone https://github.com/Grigosty/FileSort.git
    1.2) Откройте IntelliJ IDEA и выберите "Open" (Открыть), затем выберите каталог проекта (FileSort)
